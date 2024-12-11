@@ -14,13 +14,13 @@ function App() {
 
   return (
     <>
-      {/* <NavBar/>
+      <NavBar/>
       <Routes>
         <Route path="/" element={<ErrorBoundry><HomeScreen/></ErrorBoundry>}/>
         <Route path="/profile" element={<ErrorBoundry><ProfileScreen/></ErrorBoundry>}/>
         <Route path="/shop" element={<ErrorBoundry><ShopScreen/></ErrorBoundry>}/>
       </Routes>
-      <PostList/> */}
+      <PostList/>
       <Example1 />
       <Example2 />
       <Example3 />
